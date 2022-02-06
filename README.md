@@ -1,3 +1,4 @@
+
 # No-Nonsense-Trading-Robot
 Trading Software made for operations on the CFD currency exchange market.
 
@@ -14,3 +15,9 @@ Trading Software made for operations on the CFD currency exchange market.
 	 
 	 ## Source Code for the algo found in Algo NNFX V2 file.
 MT4 is needed to compile and run this software.
+
+# USAGE: 
+	
+
+ - Copy and paste the include files into your own "Include" folder.
+ - Place Algo NNFX V2 in your "Experts" folder.
